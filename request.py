@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://avocado-prediction.herokuapp.com:5000/'
+url = 'https://avocado-prediction.herokuapp.com'
 
 r = requests.get(url)
 
